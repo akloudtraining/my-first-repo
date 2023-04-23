@@ -4,4 +4,5 @@
  
    # this is the initial code
    # and it contain the head of our robot
+  # we all should be able to clone this repo before next class
 
